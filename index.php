@@ -19,7 +19,7 @@
     <main>
     <h1>Globo-Gym Membership</h1>
     <h2>Sign-Up Information</h2>
-    <img src="img/image.png" alt="gym" style="width:150px">
+    <img src="https://user-images.githubusercontent.com/71450268/105212785-e50cd480-5b1b-11eb-9fa5-896b0d7b11d0.png" alt="gym" style="width:150px">
 
     <form action="results.php" method="post">
 
