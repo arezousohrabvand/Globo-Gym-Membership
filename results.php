@@ -71,7 +71,7 @@ if ( strlen($name)<5 )
     <main>
         <h1>Successful Application</h1>
 
-        <img src="img/image2.png" alt="welcome" style="width:180px"><br>
+        <img src="https://user-images.githubusercontent.com/71450268/105212891-053c9380-5b1c-11eb-8876-8602c8c60339.png" alt="welcome" style="width:180px"><br>
 
         <label> Welcome</label>
         <span><?php echo  $name; ?></span><label>!</label><br>
